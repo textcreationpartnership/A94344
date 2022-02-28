@@ -1,0 +1,234 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Pretended saint and the prophane libertine. Well met in prison. Or A dialogue between Robert Titchburne, and Henry Marten,chamber-fellowes in Newgate.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94344</idno>
+            <idno type="STC">Wing T1150</idno>
+            <idno type="STC">Thomason E1873_3</idno>
+            <idno type="STC">ESTC R209756</idno>
+            <idno type="EEBO-CITATION">99868620</idno>
+            <idno type="PROQUEST">99868620</idno>
+            <idno type="VID">170502</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94344)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170502)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 233:E1873[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Pretended saint and the prophane libertine. Well met in prison. Or A dialogue between Robert Titchburne, and Henry Marten,chamber-fellowes in Newgate.</title>
+               </titleStmt>
+               <extent>7, 9-11 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Stafford,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire. Not in fact by Tichborne and Marten.</note>
+                  <note>Text is continuous despite pagination.</note>
+                  <note>Annotation on Thomason copy: "Jan.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tichborne, Robert, --  Sir, d. 1682 --  Early works to 1800.</term>
+               <term>Marten, Henry, 1602-1680 --  Early works to 1800.</term>
+               <term>Satire, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170502:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 97 -->
+            <p>THE Pretended SAINT AND THE Prophane Libertine. Well met in Priſon. OR A DIALOGUE BETWEEN <hi>Robert Titchburne,</hi> AND <hi>Henry Marten,</hi> Chamber-Fellowes in <hi>Newgate.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Stafford</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="3" facs="tcp:170502:2"/>
+            <!-- PDF PAGE 98 -->
+            <head>A Dialogue between. <hi>Robert Titchburne</hi> AND <hi>Henry Marten.</hi>
+            </head>
+            <sp>
+               <speaker>Col. Mar.</speaker>
+               <p>HOw now Mr. Alder<g ref="char:EOLhyphen"/>man, what makes your Soule thus to Droope, your Speech methinks failes you, your Eyes are as Hollow as your Heart hath alwayes been, you ſeem to be as dejected as if the Executioner were about to doe his Office, and your Countenance is as Gaſhly as <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Brethren that are turned Sur<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of the rivers Thames
+<pb n="4" facs="tcp:170502:2"/>
+                  <!-- PDF PAGE 98 -->
+whoſe Heads are Elevated upon London Bridge.</p>
+            </sp>
+            <sp>
+               <speaker>Titch.</speaker>
+               <p>
+                  <hi>Ah Coll. <hi>Marten,</hi> This is no time to Ieſt in; can you Pray and Ex<g ref="char:EOLhyphen"/>poſtulate the reaſon, why our Palaces are turned into a Priſon; our Noble Attendants, into Iaylors and his Sub-Officers; our Chaines of Gold into Fetters of Iron; our place as a Iudge upon the Bench, to be a Priſoner at the Bar, This methinks is a ſad diſpenſa<g ref="char:EOLhyphen"/>tion, that the Grapes of <hi>Canaan</hi> ſhould be thus ſower, and our Glory ſo ſudden<g ref="char:EOLhyphen"/>ly turned into ſhame.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mart.</speaker>
+               <p>Prethee Mr. Alderman don't diſturb me with the repeti<g ref="char:EOLhyphen"/>tion of that thing called Prayers; the noiſe of it ſounds in my Ear as dolefull as a paſſing Bell. But yet tell me what's the cauſe in your apprehenſion of theſe Afflictions which follow us as naturally as one Billow followes another in the unwearied Sea.</p>
+            </sp>
+            <pb n="5" facs="tcp:170502:3"/>
+            <!-- PDF PAGE 99 -->
+            <sp>
+               <speaker>Titch.</speaker>
+               <p>
+                  <hi>Ah Coll. <hi>Marten,</hi> I find your ſoule is not yet touch't with the ſence of Blood, Innocent blood, Royall Blood; the Blood of Gods Anointed of his Vice<g ref="char:EOLhyphen"/>gerent here upon Earth; Blood that hath cryed aloud to Heaven, and this Blood God is making inquiſition for; and we gave conſent to the ſhedding thereof, we Dethron'd his Royall Per<g ref="char:EOLhyphen"/>ſon from his Power and Dignity; We Vſurp'd an Authority over him to take away his Life. And in a word the guilt hereof lyes ſo heavy upon my ſpirit, as that I cannot ſcrue or wind up my Soul higher then this ſad dejection wherein you behold me.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Piſh Alderman <hi>Titchburne,</hi> I'le tell you, had you ſtill rode like a Jackanapes on Horſeback as you did when you were Lord Maior of London; and had a few Red-Coats to have Levelled their Muſ<g ref="char:EOLhyphen"/>quets againſt all that would not obey your commands, and had the puniſhing of Ale-houſe keepers that would not conforme to good
+<pb n="6" facs="tcp:170502:3"/>
+                  <!-- PDF PAGE 99 -->
+Orders; and were you now again contriving a New market place for the Herb Women that former<g ref="char:EOLhyphen"/>ly ſate in Cheapſide; and were you again to be Dub'd one of <hi>Oliver Cromwells</hi> Knights, and be Honou<g ref="char:EOLhyphen"/>red with the Title of one of his Muſhrome Lords. Or laſtly were the Committee of Safety ſitting againe, and you but entertained one of the Members thereof; you'd Cut off the King's Head a<g ref="char:EOLhyphen"/>gaine, you'd call the deſire of a Perſonall Treaty with the King, a Trayterous Engagement; you'd betray the Councells of the City, and would be fit for any enterpriſe that might Eſtabliſh or uphold the ſame.</p>
+            </sp>
+            <sp>
+               <speaker>Titch.</speaker>
+               <p>
+                  <hi>Well <hi>Colonell Marten,</hi> this methink is not well done of you, to add Affliction to Affliction; the remembrance of each of theſe particulars Cuts a new Wound, and every thought thereof Torments my Soule with renewed Griefe.</hi>
+               </p>
+            </sp>
+            <pb n="7" facs="tcp:170502:4"/>
+            <!-- PDF PAGE 100 -->
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Come then Mr. Alderman, let's Laugh away every thing that diſturbs our Content, let's make Muſick with the Gingling of our Chaines, and let us make our Fet<g ref="char:EOLhyphen"/>ters to keep a Noiſe in Tune; let us turne one of our Acts of Parlia<g ref="char:EOLhyphen"/>ment into Hopkins his Rhimes, and ſing our ſelves into a better Tem<g ref="char:EOLhyphen"/>per. But what thinke you Mr. Alderman methinks we want a Girle to compleat the ſtory.</p>
+            </sp>
+            <sp>
+               <speaker>Titch.</speaker>
+               <p>
+                  <hi>Fie Fie is this Priſon Diſ<g ref="char:EOLhyphen"/>courſe, what hard hap had I to méet with ſuch a Chamber-Mate; ſure this adds to my former diſtempers, and Rei<g ref="char:EOLhyphen"/>terates my never to be pacifyed Grief: Oh that I had béen ſo happy as to have béen united to one in Priſon who would Alternately have paſt away the time in opening a Text of Scripture, that we might have Sung a Pſalme of Lamen<g ref="char:EOLhyphen"/>tation together; diſcourſt of the World to come, and brought to our Minds the remembrance of thoſe Torments, which
+<pb n="8" facs="tcp:170502:4"/>
+                     <!-- PDF PAGE 100 -->
+ſome of our brethren now endure for ha<g ref="char:EOLhyphen"/>ving a Hand in the Blood of that juſt man; but I'le go Pray.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>A Pox take your canting, what the Divel makes you diſturb me in my reſt; methings this whi<g ref="char:EOLhyphen"/>ning and drolling is not like pray<g ref="char:EOLhyphen"/>ing at all; pray Mr. Alderman talk your ſelfe, let me not hear ſo much as the ſound of one of your words, for I told you before it goes againſt my Nature to hear any Prayers.</p>
+            </sp>
+            <sp>
+               <speaker>Titch.</speaker>
+               <p>
+                  <hi>Truly Colonell Marten, you are very prophane, I thought we had all béen praying Saints that Cut off the Kings Head, and you methinks doe not ſpeak the language of one.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>A way I tell you with this diſcourſe, there was not one perſon like a Saint in all that crew called the High Court of Juſtice, and truly if I had thought there had;
+<pb n="9" facs="tcp:170502:5"/>
+                  <!-- PDF PAGE 101 -->
+you ſhould not have found me there, for I promiſe you I doe not like ſuch company; but come let's talke of what will become of us, is there any hopes of Eſcaping the Gallowes;</p>
+            </sp>
+            <sp>
+               <speaker>Titch.</speaker>
+               <p>
+                  <hi>None that ever I can heare, only they ſay the King is mercifull.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>I but they ſay the people are mad to have us out of the way, they are ever and anon crying out why are not thoſe Rogues brought to Juſtice, ſome ſaying no Torment is bad enough for us, Hanging in Chaines, ſetting our Quarters upon the City Gates, and our heads upon London Bridge, they think it not puniſhment enough, They would have us buried a Live, Star<g ref="char:EOLhyphen"/>ved to Death; ſome ſay let their ſkinns be pulled over their Eares whilſt they are living, and let them be hang'd up as Memento of ever<g ref="char:EOLhyphen"/>laſting
+<pb n="10" facs="tcp:170502:5"/>
+                  <!-- PDF PAGE 101 -->
+ſhame, and as a warning piece to ſucceeding Ages how they meddle with the ſacred inſtitution of Kings and Princes.</p>
+            </sp>
+            <sp>
+               <speaker>Titch.</speaker>
+               <p>
+                  <hi>Well ſo I were but out of the World, I would not much care which way I went, for it is Torment enough for me to live; do you not think it doth trouble me to be carried to the Tow<g ref="char:EOLhyphen"/>er when I was once Lieutenant thereof and to be a cloſe Priſoner, where I com<g ref="char:EOLhyphen"/>manded the whole place my ſelf, and to have one of my Brethren an Alderman of London now to be a Commander o<g ref="char:EOLhyphen"/>ver me; well if I be Reprieved it will be my puniſhment, I ſhall live like Tan<g ref="char:EOLhyphen"/>talus all my dayes; that is to ſay onely mockt with pleaſure and delight.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mar:</speaker>
+               <p>Well Mr. Alderman for the preſent Good night, but pray hereafter, doe not whine out your Feigned ſtuffe, for ſay any thing but your prayers and I ſhall be glad to diſcourſe with you; I think 'tis about ſleeping time, though we
+<pb n="11" facs="tcp:170502:6"/>
+                  <!-- PDF PAGE 102 -->
+ſhall be parted when we are carry<g ref="char:EOLhyphen"/>ed to another Priſon, yet we ſhall meet at the Gallowes; or elſe our Heads may meet with our Brother <hi>Peters</hi> and the reſt of our Brethren upon London Bridge.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
